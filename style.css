@@ -412,14 +412,20 @@ footer {
         padding: 12px 60px;
     }
 
+    .marketing-part > img {
+    width: 370px;
+  }
 
-
+   .marketing-part {
+    width: 370px;
+ }
+    
 
     .service-div {
-        width: 410px;
+        width: 370px;
     }
     .service-div img {
-        width: 410px;
+        width: 370px;
         height: 360px;
     }
     .Portfolio-images {
@@ -429,7 +435,7 @@ footer {
         align-items: center;
     }
     .Portfolio-images > img {
-        width: 410px;
+        width: 370px;
     }
     #Portfolio, #marketing, .service-display {
         display: flex;
@@ -437,6 +443,13 @@ footer {
         justify-content: center;
         align-items: center;
     }
+    input {
+        width: 350px;
+    }
+    .contact-form {
+        padding: auto 20px;
+    }
+    
 }
 
 @media (min-width: 760px) and (max-width: 940px) {
