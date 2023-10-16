@@ -413,20 +413,20 @@ footer {
     }
 
     .marketing-part > img {
-    width: 370px;
+    width: 320px;
   }
 
    .marketing-part {
-    width: 370px;
+    width: 320px;
  }
     
 
     .service-div {
-        width: 370px;
+        width: 320px;
     }
     .service-div img {
-        width: 370px;
-        height: 360px;
+        width: 320px;
+        height: 340px;
     }
     .Portfolio-images {
         gap: 10px;
@@ -435,7 +435,7 @@ footer {
         align-items: center;
     }
     .Portfolio-images > img {
-        width: 370px;
+        width: 320px;
     }
     #Portfolio, #marketing, .service-display {
         display: flex;
