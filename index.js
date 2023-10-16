@@ -7,8 +7,3 @@ burger.addEventListener("click", () => {
     changes.classList.toggle("change");
     navlinks.classList.toggle("active");
 })
-
-window.onscroll = () => {
-    navlinks.classList.remove("active");
-    burger.classList.remove("bx-x");
-}
